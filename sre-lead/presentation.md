@@ -1,5 +1,6 @@
 % Lead SRE
-% 2022-11-28
+% BS
+% 2022-11-2
 
 # Introduction
 
@@ -49,7 +50,7 @@ Project Work
 
 - Jira Boards
   - Velocity
-  - Epics, Stories, Problem Reports, Action Items, ...
+  - Epics, Stories, Problem Reports, Spikes, ...
 
 ---
 
@@ -79,8 +80,14 @@ Two way traffic
 
 - Create an environment that allows engineers to use their individual skills
 - Identify and remove potential impediments before they lead to issues
+
+
+---
+
+Two way traffic
+
 - Support the team to reach the right decisions
-- Talk about objectives and set achievable goals
+- Set specific, measurable, achievable, realistic, time-bound (SMART) goals
 
 ---
 
@@ -169,7 +176,7 @@ My favorite questions
 30
 
 - Understand current challenges of the team
-- 1on1s with my team / manager / peers
+- 1on1s with team / manager / peers
 - Get familiar with the tech environment
 
 ---
